@@ -26,7 +26,7 @@ The folder entitled "Reproducing" contains codes for reproducing all figures in 
 * noisytestonRIPandoverDCT.m: Fig .7
 * numericalverification.m: Fig.8
 
-Besides these scripts, there are eponymous MATLAB functions with the suffix "forPC". To execute for-loop iterations in parallel on MATLAB, we need the body of the parfor-loop to be independent. Such a body is defined by those "forPC" functions, where "PC" stands for parallel computing.
+Besides these scripts, there are eponymous MATLAB functions with the suffix "forPC". For executing for-loop iterations in parallel on MATLAB, the body of the parfor-loop should be independent and be implemented by a single subroutine. Thus, such a body is defined by those "forPC" functions, where "PC" stands for parallel computing.
 
 
 # Utilities
