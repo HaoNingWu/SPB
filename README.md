@@ -8,12 +8,12 @@ Just run the demo to see how the springback-penalized model works!
 
 # functions
 The folder entitled "functions" contains subroutines that implement sparse optimization models, including 
-* ADMM_L1 for the unconstrained L1 model solved by ADMM
-* DCA_L12 for the unconstrained L1-L2 model solved by DCA+ADMM
-* DCA_MCP for the unconstrained MCP model solved by DCA+ADMM
-* DCA_SPB for the unconstrained springback model solved by DCA+ADMM
-* DCA_SPBconstrained for the constrained springback model solved by DCA+ADMM
-* DCA_SPBconstrainednoisy for the constrained springback model (with noisy measurements) solved by DCA+ADMM
+* ADMM_L1.m for the unconstrained L1 model solved by ADMM
+* DCA_L12.m for the unconstrained L1-L2 model solved by DCA+ADMM
+* DCA_MCP.m for the unconstrained MCP model solved by DCA+ADMM
+* DCA_SPB.m for the unconstrained springback model solved by DCA+ADMM
+* DCA_SPBconstrained.m for the constrained springback model solved by DCA+ADMM
+* DCA_SPBconstrainednoisy.m for the constrained springback model (with noisy measurements) solved by DCA+ADMM
 
 
 # Reproducing
