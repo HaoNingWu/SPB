@@ -21,8 +21,8 @@ The folder entitled "Reproducing" contains codes for reproducing all figures in 
 * plotshrinkage.m: Fig. 1
 * safeguardedalpha.m: Fig. 2
 * groundtruth.m: Figs. 3 and 6
-* noisefreetestonRIPmatrices: Fig. 4
-* noisefreetestonoverDCT: Fig. 5
+* noisefreetestonRIPmatrices.m: Fig. 4
+* noisefreetestonoverDCT.m: Fig. 5
 * noisytestonRIPandoverDCT.m: Fig .7
 * numericalverification.m: Fig.8
 
