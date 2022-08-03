@@ -1,7 +1,7 @@
 # SPB
 This is a collection of MATLAB codes to reproduce all figures in the paper "The springback penalty for robust signal recovery" by Congpei An, Hao-Ning Wu, and Xiaoming Yuan, which is published with DOI [j.acha.2022.07.002](https://doi.org/10.1016/j.acha.2022.07.002).
 
-This collection consists of one demo and three folders. To reproduce the figures in the mentioned paper, you may need the [MATLAB Parallel Computing Toolbox](https://www.mathworks.com/products/parallel-computing.html). If this toolbox is unavailable, one may need to replace all command "parfor" with "for". 
+This collection consists of one demo and three folders. To reproduce the figures in the mentioned paper, one may need the [MATLAB Parallel Computing Toolbox](https://www.mathworks.com/products/parallel-computing.html). If this toolbox is unavailable, one may need to replace all command "parfor" with "for". 
 
 Just run the demo to see how the springback-penalized model works!
 
