@@ -30,7 +30,7 @@ Besides these scripts, there are eponymous MATLAB functions with the suffix "for
 
 
 # Utilities
-The folder entitled "Utilities" contains codes written by other researchers, to whom the credit must go. These codes are available online.
+The **zip file** entitled "Utilities" contains codes written by other researchers, to whom the credit must go. Please **unzip** it and add it to path first. These codes are available online.
 * DCATL1-master: Transformed L1-related codes
 
   Zhang, S., & Xin, J. (2018). Minimization of transformed L1 penalty: theory, difference of convex function algorithm, and robust application in compressed sensing. Mathematical Programming, 169(1), 307-336.
